@@ -33,9 +33,9 @@ The backend simulates device data and serves it at `http://localhost:5000/data`.
 
 commands to be written in the terminal
 
-cd backend
-npm install      # Install backend dependencies
-node server.js   # Start the backend server
+-cd backend
+-npm install      # Install backend dependencies
+-node server.js   # Start the backend server
 
 
 After running this, you should see:
@@ -48,9 +48,9 @@ Server running on http://localhost:5000
 
 In a new terminal window :
 
-cd myapp
-npm install      # Install frontend dependencies
-npm start        # Start the frontend app
+-cd myapp
+-npm install      # Install frontend dependencies
+-npm start        # Start the frontend app
 
 
 This will open the React app in your browser at:
