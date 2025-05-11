@@ -46,7 +46,7 @@ Server running on http://localhost:5000
 1.2 Start the Frontend (React App)
 
 In a new terminal window :
-
+```bash
 -cd myapp
 -npm install      # Install frontend dependencies
 -npm start        # Start the frontend app
@@ -61,7 +61,7 @@ http://localhost:3000
 The app fetches data from the backend every 2 seconds and updates the UI.
 
 
-
+```
 ## Data Format (from backend)
 
 The backend sends a JSON response at the endpoint `/data` with simulated values for two devices:
