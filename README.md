@@ -42,7 +42,7 @@ After running this, you should see:
 
 Server running on http://localhost:5000
 
-
+```
 1.2 Start the Frontend (React App)
 
 In a new terminal window :
