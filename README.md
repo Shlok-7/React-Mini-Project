@@ -95,11 +95,11 @@ The frontend parses this string and displays values accordingly.
 
 ## Screenshots
 ### Dashboard View
-![Home](./assets/Screenshot1.png)
+![Home](./myapp/assets/Screenshot1.png)
 
 
 ### Device 2 Page
-![Device 2](./assets/Screenshot2.png)
+![Device 2](./myapp/assets/Screenshot2.png)
 
 ## Author
 Shlok Lawand
