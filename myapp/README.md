@@ -5,8 +5,9 @@ This is a full-stack project that monitors the status of two devices using a Nod
 
 ## Project Structure
 
-
 <pre> ``` REVOGREEN_FULLSTACK_PROJECT_SHLOK/ ├── backend/ ← Node.js server │ ├── server.js │ ├── package.json │ └── ... └── myapp/ ← React frontend ├── src/ ├── public/ ├── package.json └── ... ``` </pre>
+
+```
 
 ```
 ## Tech Stack
