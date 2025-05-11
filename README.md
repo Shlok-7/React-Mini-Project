@@ -31,12 +31,11 @@ Make sure you have Node.js and npm installed on your system.
 
 The backend simulates device data and serves it at `http://localhost:5000/data`.
 
-commands to be written in the terminal
-
--cd backend
--npm install      # Install backend dependencies
--node server.js   # Start the backend server
-
+```bash
+# commands to be written in the terminal
+cd backend
+npm install        # Install backend dependencies
+node server.js     # Start the backend server
 
 After running this, you should see:
 
