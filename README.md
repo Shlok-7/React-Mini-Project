@@ -1,11 +1,11 @@
-# RevoGreen Device Monitor
+# REACT MINI PROJECT
 
 This is a full-stack project that monitors the status of two devices using a Node.js backend and a React frontend. The backend sends simulated sensor data, and the frontend displays the data in a user-friendly interface.
 
 
 ## Project Structure
 ```
-REVOGREEN_FULLSTACK_PROJECT_SHLOK/
+REACT_MINI_PROJECT_SHLOK/
 ├── backend/            ← Node.js server
 │   ├── server.js
 │   ├── package.json
