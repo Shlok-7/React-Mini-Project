@@ -152,7 +152,7 @@ function App() {
           <Route path="/device2" element={<Device2Screen data={data} lastUpdated={lastUpdated} chartData={history} />} />
         </Routes>
         <footer>
-          &copy; {new Date().getFullYear()} RevoGreen | All rights reserved | Developed by Shlok Lawand
+          &copy; {new Date().getFullYear()}| All rights reserved | Developed by Shlok Lawand
         </footer>
       </div>
     </Router>
